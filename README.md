@@ -18,6 +18,5 @@
 - **Bấm phím 1**
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2021-va-kich-hoat/assets/82578024/527a21a6-60d1-4d5c-87b4-b2a5a68cd155)
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2021-va-kich-hoat/assets/82578024/aab10569-c2f9-4893-919b-95253aaf6b10)
-
-
-
+- ![image](https://github.com/BsNgChiThanh/Cai-Office2021-va-kich-hoat/assets/82578024/b255cdaf-3fb8-43f6-ae34-a6f9e14a7b03)
+- **Done!**
